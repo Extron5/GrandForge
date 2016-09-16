@@ -3,7 +3,6 @@
     using UnityEngine;
     using UnityEngine.Events;
 
-    
     public class VRTK_Button : VRTK_Control
     {
         [System.Serializable]
